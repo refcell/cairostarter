@@ -1,6 +1,6 @@
 {
   "name": "cairostarter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Forkable, Minimal Template for Starknet Projects.",
   "main": "index.js",
   "repository": "https://github.com/a5f9t4/cairostarter.git",
