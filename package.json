@@ -7,5 +7,8 @@
   "author": "velleity.eth <https://github.com/a5f9t4>",
   "license": "AGPL-3.0-only",
   "private": false,
-  "scripts": {}
+  "scripts": {
+    "setup": "python3 -m venv env && source env/bin/activate && pip install -r requirements.txt",
+    "export:virtualenv": "pip freeze > requirements.txt"
+  }
 }

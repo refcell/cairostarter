@@ -67,5 +67,5 @@ func setGreeting{
     new_greeting: felt
 ):
     GREETING.write(new_greeting)
-    return (1) # Starknet's `true`
+    return ()
 end

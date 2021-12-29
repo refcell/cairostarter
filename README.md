@@ -87,8 +87,7 @@ pytest
 
 ## Acknowledgements
 
-Big thanks to:
-
+- [cairomate](https://github.com/a5f9t4/cairomate)
 - [StarkWare](https://starkware.co/)
 - [OpenZeppelin](https://github.com/OpenZeppelin/cairo-contracts)
 - [DappTools Template](https://github.com/gakonst/dapptools-template)

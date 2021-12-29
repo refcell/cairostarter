@@ -1,0 +1,36 @@
+[
+    {
+        "inputs": [
+            {
+                "name": "greeting",
+                "type": "felt"
+            }
+        ],
+        "name": "constructor",
+        "outputs": [],
+        "type": "constructor"
+    },
+    {
+        "inputs": [],
+        "name": "gm",
+        "outputs": [
+            {
+                "name": "gm",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "name": "new_greeting",
+                "type": "felt"
+            }
+        ],
+        "name": "setGreeting",
+        "outputs": [],
+        "type": "function"
+    }
+]
