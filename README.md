@@ -26,6 +26,20 @@ tests
 
 ## Installation
 
+### TL;DR
+
+```bash
+sudo apt install -y libgmp3-dev # linux
+# OR
+brew install gmp # mac
+
+yarn setup # Sets up a python environment and nile installation
+
+yarn compile # Compile the contracts
+
+yarn test # Syntactic sugar for running `pytest` (python tests)
+```
+
 ### First time?
 
 Further installation instructions provided in the [cairo-lang docs](https://www.cairo-lang.org/docs/quickstart.html)
